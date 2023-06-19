@@ -1,0 +1,8 @@
+export { Navbar } from '@fishui/taro-react'
+export { Drag } from '@fishui/taro-react'
+export { DragX } from '@fishui/taro-react'
+export { Scroll } from '@fishui/taro-react'
+export { Tab } from '@fishui/taro-react'
+export { VirtualSwiper } from '@fishui/taro-react'
+export { SwiperSlide } from '@fishui/taro-react'
+export { default as request } from '@fishui/taro-request'
